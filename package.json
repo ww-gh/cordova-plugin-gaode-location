@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daihere1993/corodva-plugin-gaode-location"
+    "url": "https://github.com/daihere1993/corodva-plugin-gaode-location"
   },
   "keywords": [
     "cordova",
